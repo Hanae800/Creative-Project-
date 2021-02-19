@@ -55,7 +55,3 @@ This creative project was fun to work on. I have to admit that sometimes the fru
 
 
 I am now wondering how would this generated work would like in the form of a movie! I think it would be AWESOME! And I guess that poses the question of whether the genius on these two works of Art should be credited to the writers, the combinations of the two works of Art, the programmer, or the AI or maybe all of these elements combined.
-
-
-
-
