@@ -46,14 +46,10 @@ using the next line of codd:
 
 This creative project was fun to work on. I have to admit that sometimes the frustarion from the errors that occur in the code makes the process a bit frustrating but I enjoy the results genearted . So I think that frustartion is worth it. Another reason why I loved working on this creative project was the choice of the texts. I very much enjoy reading stories written by Ted Chiang. I think he manages to challenge the readers perspective on notions of life, death, time and appreaciation. his stories are essentially science fiction novelelettes. They discuss great philosophical issues that hunted our thoughts. I wanted to see what would be the outcome of those ideas after introducing AI to it.  I have to say that I had no clue what the outcome would look like. Wich sparked my interest even more. I used the knowldge that I gathered from working on Exercises 1&2 to work on this creative project. After reading this Article [link to Article!](http://theconversation.com/artificial-intelligence-talks-and-talks-the-story-since-2001-a-space-odyssey-96252) I had the idea of combining the short stories **Tower of Babylon & The Merchant and the Alchemist's Gate** with the script **2001 Space Odyssey** by Stanely Kubrick. I feel like the two creative works have many themes in common and they are both under science fiction genre. I also did that and I have to say I love the results generated. The two works are intersting seperatly, so by combining and adding a randomization feature to them. It creates an interesting and compelling outcome. I published the results of that as well on this repository. You can also run the project using the same steps (from 1 to 7) mentionned above. **Let me share with you a sample output from the GPT-2 method after further finetuning the text combining the first results and the 2001 Space Odyssey** 
 
--  -
-
-
-
-
-
-
-
-
-
+-And in any event, it is a really absurd explanation.
+on the other hand, there is no better proof of anti-communism than the
+absence of sound natural conformation.
+Well, in any event, it is annoying to see your silly stubbornness.
+Yes, it is annoying, Hal.
+I'm sorry about the misunderstanding, Dave.-
 I am now wondering how would this generated work would like in the form of a movie! I think it would be AWESOME! And I guess that poses the question of whether the genius on these two works of Art should be credited to the writers, the combinations of the two works of Art, the programmer, or the AI or maybe all of these elements combined.
