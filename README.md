@@ -10,7 +10,7 @@ In this Creative Priject Number 1 I decided to work with two short fantasy & Sci
 
 Since the two stories have a lot of  science fiction themes in common. I wanted to see what would be the restlt of those themes if **combined** To achieve the results I had to go throught two steps using *Markovify* & *GPT-2* 
 
-**1.** first step was using **Markovify** I copied bothe short stories in one single TXT document. I curated the format of the text into one single block combining the two texts. Later I uploaded the text into ipynb file and run the code using Exercice 1 as a reference. 
+**1.** first step was using **Markovify** I copied both short stories in one single TXT document. I curated the format of the text into one single block combining the two texts. Later I uploaded the text into ipynb file and run the code using Exercice 1 as a reference. 
 
 **Here is a sample output from the combined texts using Markovify** 
 
