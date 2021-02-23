@@ -2,7 +2,7 @@
 
 ## Summary of my Creative Project 1
 
-In this Creative Priject Number 1 I decided to work with two short fantasy & Science Fiction novelettes by Ted Chiang  **Tower of Babylon & The Merchant and the Alchemist's Gate** they are both a part of the short stories collections **Exhalation: Stories**. 
+In this Creative Project Number 1 I decided to work with two short fantasy & Science Fiction novelettes by Ted Chiang  **Tower of Babylon & The Merchant and the Alchemist's Gate** they are both a part of the short stories collections **Exhalation: Stories**. 
 
 * **The Merchant and the Alechemist's Gate**:_Tells the story of a merchant who meets a shop owner who invites Fuwaad into the back workshop to see a mysterious black stone arch which serves as a gateway into the future, which the shop owner has made by the use of alchemy. Fuwaad is intrigued, and the shop owner tells him three stories of others who have traveled through the gate to meet and have conversation with their future selves. When Fuwaad learns that the shop keeper has another gate in Cairo that will allow people to travel into the past, he makes the journey there to try to rectify a mistake he made twenty years earlier_ 
 
